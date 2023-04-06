@@ -1,0 +1,15 @@
+
+Les états possible du "readyState" :
+- 0 : Requête non initialisée
+- 1 : Connexion au serveur établie
+- 2 : Requête reçue
+- 3 : Requête en cours de traitement
+- 4 : Requête terminée et réponse prête
+
+Quelques statuts HTTP :
+- 200 : Requête OK
+- 403 : Accès interdit
+- 404 : Page (ou fichier) introuvable
+- 500 : Erreur interne du serveur
+
+🔗 Toutes les réponse HTTP possibles : https://www.w3schools.com/tags/ref_httpmessages.asp
